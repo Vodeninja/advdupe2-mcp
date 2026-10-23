@@ -1,0 +1,32 @@
+.venv/
+.research/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Local machine configuration and private server exports
+/mcp.config.json
+/.env
+/.env.*
+!/.env.example
+/profiles/*.json
+!/profiles/server-props.example.json
+
+# Generated reports contain local installation paths
+/builds/**/saved.json
+/builds/**/validation.json
+*.log
+*.bak
+*.tmp
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

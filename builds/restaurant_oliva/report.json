@@ -1,0 +1,71 @@
+{
+  "props": 218,
+  "prop_limit": 250,
+  "welds": 217,
+  "groups": {
+    "floor": 8,
+    "roof": 8,
+    "terrace_deck": 2,
+    "walls": 8,
+    "side_plinth": 2,
+    "side_header": 2,
+    "windows": 8,
+    "side_frames": 4,
+    "plinth": 4,
+    "window_frames": 6,
+    "facade_cheeks": 2,
+    "fascia": 2,
+    "wood_louvers": 12,
+    "cornice": 8,
+    "sign_board": 1,
+    "lettering": 12,
+    "sign_border": 2,
+    "doors": 2,
+    "door_handles": 2,
+    "pergola_posts": 4,
+    "pergola_rim": 2,
+    "pergola_slats": 6,
+    "terrace_railing": 8,
+    "deck_inlay": 6,
+    "dining_tables": 6,
+    "dining_chairs": 12,
+    "table_linen": 12,
+    "tableware": 12,
+    "table_vases": 6,
+    "bar": 4,
+    "bar_stools": 3,
+    "till": 1,
+    "bar_tableware": 2,
+    "kitchen": 5,
+    "kitchen_partition": 1,
+    "menus": 3,
+    "menu_lines": 6,
+    "wall_panels": 4,
+    "wall_trim": 4,
+    "terrace_plants": 4,
+    "indoor_plants": 4,
+    "ceiling_lamps": 4,
+    "facade_lamps": 2,
+    "pergola_lamps": 2
+  },
+  "bounds": {
+    "min": [
+      -291.3812587738037,
+      -333.2312549173832,
+      0.0
+    ],
+    "max": [
+      291.38125905990603,
+      196.23125691278076,
+      206.18125019073486
+    ]
+  },
+  "size_source_units": [
+    582.763,
+    529.463,
+    206.181
+  ],
+  "all_models_allowed": true,
+  "entrance_min_clear_width": 92,
+  "dupe_name": "mcp/restaurant_oliva.txt"
+}

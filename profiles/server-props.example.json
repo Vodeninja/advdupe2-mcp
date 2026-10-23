@@ -1,0 +1,8 @@
+{
+  "format": "adv2mcp-props-v1",
+  "server": null,
+  "source": "Example only: replace with the actual server allowlist",
+  "models": [
+    {"model": "models/hunter/blocks/cube05x05x05.mdl"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "adv2mcp": {
+      "command": "C:/path/to/adv2mcp/.venv/Scripts/python.exe",
+      "args": ["-m", "adv2mcp"],
+      "env": {
+        "ADV2MCP_DUPE_DIR": "C:/path/to/GarrysMod/garrysmod/data/advdupe2",
+        "ADV2MCP_REQUIRE_ALLOWLIST": "1",
+        "ADV2MCP_REVISION": "4"
+      }
+    }
+  }
+}

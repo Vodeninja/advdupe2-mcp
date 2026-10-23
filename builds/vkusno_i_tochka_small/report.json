@@ -1,0 +1,55 @@
+{
+  "props": 86,
+  "prop_limit": 150,
+  "welds": 85,
+  "groups": {
+    "floor": 2,
+    "roof": 1,
+    "walls": 3,
+    "facade": 2,
+    "glazing": 2,
+    "frames": 5,
+    "doors": 2,
+    "door_handles": 2,
+    "fascia": 8,
+    "lettering": 41,
+    "logo": 3,
+    "counter": 4,
+    "tills": 1,
+    "menus": 1,
+    "menu_lines": 2,
+    "kitchen": 1,
+    "chairs": 2,
+    "plants": 2,
+    "lamps": 2
+  },
+  "bounds": {
+    "min": [
+      -120.625,
+      -119.375,
+      0.0
+    ],
+    "max": [
+      120.625,
+      73.175,
+      167.078
+    ]
+  },
+  "size_source_units": [
+    241.25,
+    192.55,
+    167.078
+  ],
+  "previous_size_source_units": [
+    764.7,
+    572.65,
+    257.078
+  ],
+  "width_reduction_factor": 3.17,
+  "footprint_reduction_factor": 9.43,
+  "all_models_allowed": true,
+  "all_models_indexed_locally": true,
+  "entrance_min_clear_width": 67,
+  "staff_corridor_depth": 46,
+  "dupe_name": "mcp/vkusno_i_tochka_small.txt"
+}

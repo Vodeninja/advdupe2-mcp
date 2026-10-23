@@ -1,0 +1,10 @@
+{
+  "description": "Example wall: verify this model is in the server profile before saving",
+  "props": [
+    {"id": 1, "model": "models/props_c17/door01_left.mdl", "pos": [0, 0, 0]},
+    {"id": 2, "model": "models/props_c17/door01_left.mdl", "pos": [0, 48, 0]}
+  ],
+  "weld_to_head": true,
+  "ground_z": 0
+}
+

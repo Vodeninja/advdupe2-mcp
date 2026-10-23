@@ -1,0 +1,79 @@
+{
+  "props": 113,
+  "prop_limit": 250,
+  "welds": 112,
+  "groups": {
+    "floor": 1,
+    "back_wall": 1,
+    "drawer_pedestal": 1,
+    "desktop": 1,
+    "desk_frame": 5,
+    "light_strips": 5,
+    "desk_mat": 1,
+    "monitor_riser": 3,
+    "desk_clock": 1,
+    "monitor_stand": 2,
+    "monitor_screen": 3,
+    "screen_art": 6,
+    "monitor_lightbar": 1,
+    "keyboard": 1,
+    "mouse": 1,
+    "pc_case": 5,
+    "pc_glass": 1,
+    "pc_components": 1,
+    "pc_fans": 3,
+    "pc_light_strips": 2,
+    "microphone": 3,
+    "controller": 1,
+    "mug": 1,
+    "desk_lamp": 1,
+    "pen_cup": 1,
+    "shelves": 6,
+    "shelf_light_strips": 6,
+    "small_plants": 3,
+    "plant_leaves": 9,
+    "trailing_plant": 4,
+    "books": 6,
+    "framed_print": 2,
+    "soundbar": 1,
+    "figurines": 4,
+    "camera": 1,
+    "shelf_clock": 1,
+    "shelf_vase": 1,
+    "accessory_board": 1,
+    "accessory_tray": 1,
+    "headphones": 5,
+    "wall_art": 1,
+    "floor_plant": 1,
+    "office_chair": 1,
+    "rug": 1,
+    "curtain": 1,
+    "curtain_folds": 5
+  },
+  "bounds": {
+    "min": [
+      -95.15000915527344,
+      -96.42501068115234,
+      0.0
+    ],
+    "max": [
+      105.54400006103516,
+      46.425010681152344,
+      193.8000015258789
+    ]
+  },
+  "size_source_units": [
+    200.694,
+    142.85,
+    193.8
+  ],
+  "all_models_allowed": true,
+  "desktop_height": 47.385498,
+  "light_strips": "colored physical props, no dynamic light entities",
+  "approximations": [
+    "curved screen from three panels",
+    "analog clocks",
+    "prop-built mic, controller, headphones and plants"
+  ],
+  "dupe_name": "mcp/pc_setup.txt"
+}

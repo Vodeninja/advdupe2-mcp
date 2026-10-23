@@ -1,0 +1,5523 @@
+{
+  "props": [
+    {
+      "id": 1,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        -142.6,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 2,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        -142.6,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 3,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        -47.7,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 4,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        -47.7,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 5,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        47.7,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 6,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        47.7,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 7,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        142.6,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 8,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        142.6,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 9,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        -237.75,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        61,
+        66,
+        73,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 10,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        190.05,
+        51.2
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 11,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        -142.6,
+        190.05,
+        146.6
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 12,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        -142.6,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 13,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        -142.6,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 14,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        -47.7,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 15,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        -47.7,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 16,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        47.7,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 17,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        47.7,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 18,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        142.6,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 19,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        142.6,
+        196.05
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 20,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        -237.75,
+        1.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        61,
+        66,
+        73,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 21,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        190.05,
+        51.2
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 22,
+      "model": "models/hunter/plates/plate2x6.mdl",
+      "pos": [
+        142.6,
+        190.05,
+        146.6
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 23,
+      "model": "models/hunter/plates/plate2x8.mdl",
+      "pos": [
+        -285.2,
+        0.0,
+        51.2
+      ],
+      "angle": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 24,
+      "model": "models/hunter/plates/plate2x8.mdl",
+      "pos": [
+        -285.2,
+        0.0,
+        146.6
+      ],
+      "angle": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 25,
+      "model": "models/hunter/plates/plate2x8.mdl",
+      "pos": [
+        285.2,
+        0.0,
+        51.2
+      ],
+      "angle": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 26,
+      "model": "models/hunter/plates/plate2x8.mdl",
+      "pos": [
+        285.2,
+        0.0,
+        146.6
+      ],
+      "angle": [
+        -90.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 27,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        -190.6,
+        -190.05,
+        27.475
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        225,
+        217,
+        192,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 28,
+      "model": "models/props_phx/construct/glass/glass_plate2x2.mdl",
+      "pos": [
+        -166.829587,
+        -188.304444,
+        75.175183
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        186,
+        213,
+        219,
+        135
+      ],
+      "material": null
+    },
+    {
+      "id": 29,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        -95.2,
+        -190.05,
+        27.475
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        225,
+        217,
+        192,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 30,
+      "model": "models/props_phx/construct/glass/glass_plate2x2.mdl",
+      "pos": [
+        -71.429587,
+        -188.304444,
+        75.175183
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        186,
+        213,
+        219,
+        135
+      ],
+      "material": null
+    },
+    {
+      "id": 31,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        95.2,
+        -190.05,
+        27.475
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        225,
+        217,
+        192,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 32,
+      "model": "models/props_phx/construct/glass/glass_plate2x2.mdl",
+      "pos": [
+        118.970413,
+        -188.304444,
+        75.175183
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        186,
+        213,
+        219,
+        135
+      ],
+      "material": null
+    },
+    {
+      "id": 33,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        190.6,
+        -190.05,
+        27.475
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        225,
+        217,
+        192,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 34,
+      "model": "models/props_phx/construct/glass/glass_plate2x2.mdl",
+      "pos": [
+        214.370413,
+        -188.304444,
+        75.175183
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        186,
+        213,
+        219,
+        135
+      ],
+      "material": null
+    },
+    {
+      "id": 35,
+      "model": "models/hunter/plates/plate1x6.mdl",
+      "pos": [
+        -142.6,
+        -190.05,
+        170.325
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 36,
+      "model": "models/hunter/plates/plate1x6.mdl",
+      "pos": [
+        142.6,
+        -190.05,
+        170.325
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 37,
+      "model": "models/hunter/plates/plate1x4.mdl",
+      "pos": [
+        -261.225,
+        -196.05,
+        98.65
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 38,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        -268.29375,
+        -207.98125,
+        119.793747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 39,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        -255.29375,
+        -207.98125,
+        119.793747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 40,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        -242.29375,
+        -207.98125,
+        119.793747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 41,
+      "model": "models/hunter/plates/plate1x1.mdl",
+      "pos": [
+        -261.225,
+        -200.05,
+        205.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 42,
+      "model": "models/hunter/plates/plate05x05.mdl",
+      "pos": [
+        -261.224999,
+        -205.05,
+        170.999999
+      ],
+      "angle": [
+        45.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 43,
+      "model": "models/hunter/plates/plate1x4.mdl",
+      "pos": [
+        261.225,
+        -196.05,
+        98.65
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 44,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        254.15625,
+        -207.98125,
+        119.793747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 45,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        267.15625,
+        -207.98125,
+        119.793747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 46,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        280.15625,
+        -207.98125,
+        119.793747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 47,
+      "model": "models/hunter/plates/plate1x1.mdl",
+      "pos": [
+        261.225,
+        -200.05,
+        205.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 48,
+      "model": "models/hunter/plates/plate05x05.mdl",
+      "pos": [
+        261.225001,
+        -205.05,
+        170.999999
+      ],
+      "angle": [
+        45.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 49,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        -231.66875,
+        -203.98125,
+        116.443747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 50,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        -237.6,
+        -198.05,
+        10.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 51,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        -237.6,
+        -198.05,
+        190.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 52,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        -41.56875,
+        -203.98125,
+        116.443747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 53,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        -47.5,
+        -198.05,
+        10.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 54,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        -47.5,
+        -198.05,
+        190.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 55,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        53.43125,
+        -203.98125,
+        116.443747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 56,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        47.5,
+        -198.05,
+        10.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 57,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        47.5,
+        -198.05,
+        190.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 58,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        243.53125,
+        -203.98125,
+        116.443747
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 59,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        237.6,
+        -198.05,
+        10.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 60,
+      "model": "models/hunter/blocks/cube05x05x025.mdl",
+      "pos": [
+        237.6,
+        -198.05,
+        190.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 61,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        -124.806253,
+        -201.981249,
+        141.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 62,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        -124.806253,
+        -201.981249,
+        192.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 63,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        -124.806253,
+        184.118751,
+        192.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 64,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        160.393747,
+        -201.981249,
+        141.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 65,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        160.393747,
+        -201.981249,
+        192.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 66,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        160.393747,
+        184.118751,
+        192.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 67,
+      "model": "models/hunter/blocks/cube025x8x025.mdl",
+      "pos": [
+        -279.26875,
+        17.793755,
+        192.06875
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 68,
+      "model": "models/hunter/blocks/cube025x8x025.mdl",
+      "pos": [
+        291.13125,
+        17.793755,
+        192.06875
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 69,
+      "model": "models/hunter/plates/plate1x6.mdl",
+      "pos": [
+        0.0,
+        -208.05,
+        220.0
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 70,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        17.793747,
+        -215.981249,
+        189.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 71,
+      "model": "models/hunter/blocks/cube025x6x025.mdl",
+      "pos": [
+        17.793747,
+        -215.981249,
+        239.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 72,
+      "model": "models/hunter/blocks/cube025x1x025.mdl",
+      "pos": [
+        -136.66875,
+        -215.98125,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 73,
+      "model": "models/hunter/blocks/cube025x1x025.mdl",
+      "pos": [
+        148.53125,
+        -215.98125,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 74,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -104.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 75,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -95.0,
+        -216.05,
+        238.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 76,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -95.0,
+        -216.05,
+        202.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 77,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -61.5,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        75.96375653207353
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 78,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -52.5,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        -75.96375653207353
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 79,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -57.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 80,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -19.0,
+        -216.05,
+        238.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 81,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -28.0,
+        -216.05,
+        229.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 82,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -19.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 83,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -10.0,
+        -216.05,
+        211.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 84,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -19.0,
+        -216.05,
+        202.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 85,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        19.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 86,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        48.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 87,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        66.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 88,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        57.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        -63.43494882292201
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 89,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        86.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 90,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        104.0,
+        -216.05,
+        220.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 91,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        95.0,
+        -216.05,
+        238.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 92,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        95.0,
+        -216.05,
+        202.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 93,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -120.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 94,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -120.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 95,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -90.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 96,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -90.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 97,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -60.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 98,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -60.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 99,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -30.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 100,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -30.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 101,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        0.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 102,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        0.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 103,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        30.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 104,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        30.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 105,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        60.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 106,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        60.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 107,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        90.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 108,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        90.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 109,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        120.0,
+        -218.05,
+        194.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 110,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        120.0,
+        -218.05,
+        246.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 111,
+      "model": "models/hunter/plates/plate2x4.mdl",
+      "pos": [
+        0.0,
+        -228.05,
+        145.0
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 112,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        17.793747,
+        -281.98125,
+        139.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 113,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        17.793747,
+        -282.98125,
+        145.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 114,
+      "model": "models/hunter/blocks/cube025x4x025.mdl",
+      "pos": [
+        17.793747,
+        -282.98125,
+        133.06875
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 115,
+      "model": "models/hunter/plates/plate2x2.mdl",
+      "pos": [
+        0.0,
+        -237.75,
+        5.25
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 116,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -218.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 117,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -190.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        -24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 118,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -162.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 119,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        -134.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        -24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 120,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        134.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 121,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        162.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        -24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 122,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        190.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 123,
+      "model": "models/hunter/plates/plate025x075.mdl",
+      "pos": [
+        218.0,
+        -204.05,
+        173.0
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        -24.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 124,
+      "model": "models/hunter/blocks/cube025x025x025.mdl",
+      "pos": [
+        -65.0,
+        -210.05,
+        9.68
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 125,
+      "model": "models/hunter/blocks/cube025x075x025.mdl",
+      "pos": [
+        -59.06875,
+        -215.981249,
+        45.293751
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 126,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -65.0,
+        -210.05,
+        47.3
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 127,
+      "model": "models/hunter/blocks/cube025x025x025.mdl",
+      "pos": [
+        -65.0,
+        -270.05,
+        9.68
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 128,
+      "model": "models/hunter/blocks/cube025x075x025.mdl",
+      "pos": [
+        -59.06875,
+        -275.981249,
+        45.293751
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 129,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -65.0,
+        -270.05,
+        47.3
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 130,
+      "model": "models/hunter/blocks/cube025x125x025.mdl",
+      "pos": [
+        -59.06875,
+        -222.256249,
+        34.06875
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 131,
+      "model": "models/hunter/blocks/cube025x025x025.mdl",
+      "pos": [
+        65.0,
+        -210.05,
+        9.68
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 132,
+      "model": "models/hunter/blocks/cube025x075x025.mdl",
+      "pos": [
+        70.93125,
+        -215.981249,
+        45.293751
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 133,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        65.0,
+        -210.05,
+        47.3
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 134,
+      "model": "models/hunter/blocks/cube025x025x025.mdl",
+      "pos": [
+        65.0,
+        -270.05,
+        9.68
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 135,
+      "model": "models/hunter/blocks/cube025x075x025.mdl",
+      "pos": [
+        70.93125,
+        -275.981249,
+        45.293751
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 136,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        65.0,
+        -270.05,
+        47.3
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 137,
+      "model": "models/hunter/blocks/cube025x125x025.mdl",
+      "pos": [
+        70.93125,
+        -222.256249,
+        34.06875
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 138,
+      "model": "models/hunter/blocks/cube05x1x05.mdl",
+      "pos": [
+        -251.0,
+        -130.0,
+        27.475
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 139,
+      "model": "models/hunter/blocks/cube05x05x05.mdl",
+      "pos": [
+        -251.0,
+        -130.0,
+        63.5625
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 140,
+      "model": "models/props_lab/monitor01b.mdl",
+      "pos": [
+        -230.174975,
+        -130.17265,
+        60.9661
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 141,
+      "model": "models/hunter/plates/plate025x05.mdl",
+      "pos": [
+        -234.0,
+        -130.0,
+        45.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 142,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -139.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 143,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -130.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 144,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -121.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 145,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -195.8113,
+        -129.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 146,
+      "model": "models/hunter/blocks/cube05x1x05.mdl",
+      "pos": [
+        -251.0,
+        -75.0,
+        27.475
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 147,
+      "model": "models/hunter/blocks/cube05x05x05.mdl",
+      "pos": [
+        -251.0,
+        -75.0,
+        63.5625
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 148,
+      "model": "models/props_lab/monitor01b.mdl",
+      "pos": [
+        -230.174975,
+        -75.17265,
+        60.9661
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 149,
+      "model": "models/hunter/plates/plate025x05.mdl",
+      "pos": [
+        -234.0,
+        -75.0,
+        45.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 150,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -84.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 151,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -75.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 152,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -66.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 153,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -195.8113,
+        -74.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 154,
+      "model": "models/hunter/blocks/cube05x1x05.mdl",
+      "pos": [
+        -251.0,
+        -20.0,
+        27.475
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 155,
+      "model": "models/hunter/blocks/cube05x05x05.mdl",
+      "pos": [
+        -251.0,
+        -20.0,
+        63.5625
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 156,
+      "model": "models/props_lab/monitor01b.mdl",
+      "pos": [
+        -230.174975,
+        -20.17265,
+        60.9661
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 157,
+      "model": "models/hunter/plates/plate025x05.mdl",
+      "pos": [
+        -234.0,
+        -20.0,
+        45.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 158,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -29.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 159,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -20.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 160,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        -11.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 161,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -195.8113,
+        -19.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 162,
+      "model": "models/hunter/blocks/cube05x1x05.mdl",
+      "pos": [
+        -251.0,
+        35.0,
+        27.475
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 163,
+      "model": "models/hunter/blocks/cube05x05x05.mdl",
+      "pos": [
+        -251.0,
+        35.0,
+        63.5625
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 164,
+      "model": "models/props_lab/monitor01b.mdl",
+      "pos": [
+        -230.174975,
+        34.82735,
+        60.9661
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 165,
+      "model": "models/hunter/plates/plate025x05.mdl",
+      "pos": [
+        -234.0,
+        35.0,
+        45.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 166,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        26.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 167,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        35.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 168,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        44.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 169,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -195.8113,
+        35.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 170,
+      "model": "models/hunter/blocks/cube05x1x05.mdl",
+      "pos": [
+        -251.0,
+        90.0,
+        27.475
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 171,
+      "model": "models/hunter/blocks/cube05x05x05.mdl",
+      "pos": [
+        -251.0,
+        90.0,
+        63.5625
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 172,
+      "model": "models/props_lab/monitor01b.mdl",
+      "pos": [
+        -230.174975,
+        89.82735,
+        60.9661
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 173,
+      "model": "models/hunter/plates/plate025x05.mdl",
+      "pos": [
+        -234.0,
+        90.0,
+        45.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 174,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        81.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 175,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        90.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 176,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        99.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 177,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -195.8113,
+        90.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 178,
+      "model": "models/hunter/blocks/cube05x1x05.mdl",
+      "pos": [
+        -251.0,
+        145.0,
+        27.475
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        24,
+        29,
+        37,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 179,
+      "model": "models/hunter/blocks/cube05x05x05.mdl",
+      "pos": [
+        -251.0,
+        145.0,
+        63.5625
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 180,
+      "model": "models/props_lab/monitor01b.mdl",
+      "pos": [
+        -230.174975,
+        144.82735,
+        60.9661
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 181,
+      "model": "models/hunter/plates/plate025x05.mdl",
+      "pos": [
+        -234.0,
+        145.0,
+        45.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 182,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        136.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 183,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        145.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 184,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -222.0,
+        154.0,
+        61.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 185,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -195.8113,
+        145.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 186,
+      "model": "models/props_c17/furnituretable002a.mdl",
+      "pos": [
+        -91.09444,
+        -18.032228,
+        21.943807
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 187,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        -91.0,
+        -18.0,
+        42.0
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        19,
+        79,
+        66,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 188,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -148.8113,
+        -17.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 189,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        -32.8113,
+        -17.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 190,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -115.0,
+        -25.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 191,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -91.0,
+        -25.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 192,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -67.0,
+        -25.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 193,
+      "model": "models/props_c17/furnituretable002a.mdl",
+      "pos": [
+        99.90556,
+        -18.032228,
+        21.943807
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 194,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        100.0,
+        -18.0,
+        42.0
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        19,
+        79,
+        66,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 195,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        42.1887,
+        -17.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 196,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        158.1887,
+        -17.93705,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 197,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        76.0,
+        -25.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 198,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        100.0,
+        -25.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 199,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        124.0,
+        -25.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 200,
+      "model": "models/props_c17/furnituretable002a.mdl",
+      "pos": [
+        99.90556,
+        91.967772,
+        21.943807
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 201,
+      "model": "models/hunter/plates/plate1x2.mdl",
+      "pos": [
+        100.0,
+        92.0,
+        42.0
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        19,
+        79,
+        66,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 202,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        42.1887,
+        92.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 203,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        158.1887,
+        92.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 204,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        76.0,
+        85.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 205,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        100.0,
+        85.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 206,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        124.0,
+        85.0,
+        45.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 207,
+      "model": "models/hunter/blocks/cube05x3x025.mdl",
+      "pos": [
+        -91.0,
+        152.0,
+        9.68
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 208,
+      "model": "models/hunter/blocks/cube05x3x025.mdl",
+      "pos": [
+        -91.0,
+        152.0,
+        22.04
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 209,
+      "model": "models/hunter/blocks/cube05x3x025.mdl",
+      "pos": [
+        -91.0,
+        152.0,
+        34.4
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 210,
+      "model": "models/hunter/plates/plate05x3.mdl",
+      "pos": [
+        -91.0,
+        152.000001,
+        42.33
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 211,
+      "model": "models/hunter/blocks/cube05x3x025.mdl",
+      "pos": [
+        242.0,
+        82.0,
+        9.68
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 212,
+      "model": "models/hunter/blocks/cube05x3x025.mdl",
+      "pos": [
+        242.0,
+        82.0,
+        22.04
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 213,
+      "model": "models/hunter/blocks/cube05x3x025.mdl",
+      "pos": [
+        242.0,
+        82.0,
+        34.4
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 214,
+      "model": "models/hunter/plates/plate05x3.mdl",
+      "pos": [
+        242.000001,
+        82.0,
+        42.33
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 215,
+      "model": "models/props_c17/tv_monitor01.mdl",
+      "pos": [
+        -90.0,
+        152.0,
+        52.36125
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 216,
+      "model": "models/hunter/plates/plate1x3.mdl",
+      "pos": [
+        -91.0,
+        187.05,
+        105.0
+      ],
+      "angle": [
+        -90.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 217,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -127.0,
+        182.05,
+        105.0
+      ],
+      "angle": [
+        45.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 218,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -91.0,
+        182.05,
+        105.0
+      ],
+      "angle": [
+        45.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 219,
+      "model": "models/hunter/plates/plate025x025.mdl",
+      "pos": [
+        -55.0,
+        182.05,
+        105.0
+      ],
+      "angle": [
+        45.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 220,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        202.1887,
+        36.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 221,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        202.1887,
+        82.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 222,
+      "model": "models/props_c17/chair_stool01a.mdl",
+      "pos": [
+        202.1887,
+        128.06295,
+        3.5
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 223,
+      "model": "models/hunter/plates/plate05x3.mdl",
+      "pos": [
+        274.000001,
+        82.0,
+        100.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 224,
+      "model": "models/props_c17/pottery02a.mdl",
+      "pos": [
+        273.922825,
+        48.0,
+        101.75
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 225,
+      "model": "models/props_c17/pottery02a.mdl",
+      "pos": [
+        273.922825,
+        116.0,
+        101.75
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 226,
+      "model": "models/props/cs_office/sofa.mdl",
+      "pos": [
+        230.0,
+        -112.16817,
+        3.75
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": null
+    },
+    {
+      "id": 227,
+      "model": "models/props/cs_office/sofa.mdl",
+      "pos": [
+        230.0,
+        -47.83183,
+        3.75
+      ],
+      "angle": [
+        0.0,
+        -90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        102,
+        20,
+        42,
+        255
+      ],
+      "material": null
+    },
+    {
+      "id": 228,
+      "model": "models/props_c17/furnituretable003a.mdl",
+      "pos": [
+        229.999997,
+        -79.999999,
+        14.340553
+      ],
+      "angle": [
+        0.0,
+        90.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 229,
+      "model": "models/props_c17/pottery01a.mdl",
+      "pos": [
+        230.0,
+        -79.8986,
+        25.55195
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        225,
+        217,
+        192,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 230,
+      "model": "models/hunter/blocks/cube025x2x025.mdl",
+      "pos": [
+        286.93125,
+        -114.06875,
+        111.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 231,
+      "model": "models/hunter/blocks/cube025x2x025.mdl",
+      "pos": [
+        286.93125,
+        -24.06875,
+        111.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 232,
+      "model": "models/hunter/blocks/cube025x2x025.mdl",
+      "pos": [
+        286.93125,
+        65.93125,
+        111.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 233,
+      "model": "models/hunter/blocks/cube025x2x025.mdl",
+      "pos": [
+        286.93125,
+        155.93125,
+        111.0
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        90.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 234,
+      "model": "models/props/de_inferno/potted_plant1.mdl",
+      "pos": [
+        -254.833184,
+        -245.172684,
+        3.78125
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 235,
+      "model": "models/props/de_inferno/potted_plant1.mdl",
+      "pos": [
+        -109.833184,
+        -245.172684,
+        3.78125
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 236,
+      "model": "models/props/de_inferno/potted_plant1.mdl",
+      "pos": [
+        110.166816,
+        -245.172684,
+        3.78125
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 237,
+      "model": "models/props/de_inferno/potted_plant1.mdl",
+      "pos": [
+        255.166816,
+        -245.172684,
+        3.78125
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": null,
+      "material": null
+    },
+    {
+      "id": 238,
+      "model": "models/props_c17/lamp001a.mdl",
+      "pos": [
+        -130.0,
+        -95.014697,
+        181.178525
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 239,
+      "model": "models/props_c17/lamp001a.mdl",
+      "pos": [
+        -130.0,
+        79.985303,
+        181.178525
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 240,
+      "model": "models/props_c17/lamp001a.mdl",
+      "pos": [
+        130.0,
+        -95.014697,
+        181.178525
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 241,
+      "model": "models/props_c17/lamp001a.mdl",
+      "pos": [
+        130.0,
+        79.985303,
+        181.178525
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        180.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        207,
+        162,
+        74,
+        255
+      ],
+      "material": "models/shiny"
+    },
+    {
+      "id": 242,
+      "model": "models/props_c17/lampshade001a.mdl",
+      "pos": [
+        -214.967874,
+        -220.072901,
+        126.062948
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    },
+    {
+      "id": 243,
+      "model": "models/props_c17/lampshade001a.mdl",
+      "pos": [
+        215.032126,
+        -220.072901,
+        126.062948
+      ],
+      "angle": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "frozen": true,
+      "skin": 0,
+      "color": [
+        250,
+        229,
+        172,
+        255
+      ],
+      "material": "models/debug/debugwhite"
+    }
+  ],
+  "constraints": [],
+  "weld_to_head": true,
+  "head_id": 1,
+  "ground_z": 0.0,
+  "description": "GRAND CASINO | Art Deco facade, marquee, canopy, 6 decorative slots, 3 card tables, bar and lounge | max 250 props"
+}

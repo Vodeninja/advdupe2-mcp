@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "adv2mcp"
+version = "0.1.0"
+description = "Local MCP server for creating and editing Garry's Mod Advanced Duplicator 2 builds"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "tests/fixtures/UPSTREAM_LICENSE"]
+requires-python = ">=3.11"
+dependencies = ["mcp>=1.28,<2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "lupa>=2.6,<3"]
+examples = ["Pillow>=10,<13"]
+
+[project.scripts]
+adv2mcp = "adv2mcp.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

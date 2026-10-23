@@ -1,0 +1,54 @@
+{
+  "props": 110,
+  "prop_limit": 250,
+  "welds": 109,
+  "groups": {
+    "floor": 2,
+    "roof": 2,
+    "entrance_apron": 1,
+    "walls": 3,
+    "windows": 2,
+    "window_trim": 2,
+    "columns": 4,
+    "fascia": 1,
+    "cornice": 5,
+    "lettering": 19,
+    "sign_emblems": 2,
+    "marquee_bulbs": 16,
+    "slot_cabinets": 6,
+    "slot_screens": 3,
+    "slot_controls": 3,
+    "slot_reels": 9,
+    "stools": 7,
+    "card_tables": 2,
+    "table_felt": 2,
+    "chips": 6,
+    "cashier": 4,
+    "cash_register": 1,
+    "cashier_sign": 4,
+    "plants": 2,
+    "ceiling_lamps": 2
+  },
+  "bounds": {
+    "min": [
+      -172.50625595910645,
+      -168.6652865390625,
+      -2.68125
+    ],
+    "max": [
+      172.50625496046447,
+      125.3062578664551,
+      156.18125019073486
+    ]
+  },
+  "size_source_units": [
+    345.013,
+    293.972,
+    158.863
+  ],
+  "footprint_ratio_to_small": 2.183,
+  "all_models_allowed": true,
+  "entrance_clear_width": 129,
+  "functional_game_entities": false,
+  "dupe_name": "mcp/casino_small.txt"
+}

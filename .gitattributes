@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=lf
+*.lua text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.ps1 text eol=crlf
+*.png binary
+tests/fixtures/single_prop_v4.txt binary
